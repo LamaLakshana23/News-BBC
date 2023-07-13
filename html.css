@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body header {
+  background-color: black;
+  padding: 10px;
+}
+body header .c1 .ca img {
+  width: 100px;
+  height: 50px;
+}
+body header .c1 .ca a {
+  text-decoration: none;
+  color: white;
+}
+body header .c1 .hed {
+  margin-top: 10px;
+}
+body header .c1 .hed ul li a {
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+body #s1 {
+  padding: 20px;
+  padding-bottom: 50px;
+  background-color: rgb(238, 238, 238);
+}
+body #s1 P {
+  margin-left: 83%;
+}
+body #s1 img {
+  width: 88%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body #s2 .ra1 {
+  padding: 5px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+body #s3 {
+  background-image: url(2bg.jpg);
+  color: white;
+}
+body #s3 h1 {
+  padding: 10px;
+}
+body #s3 .second h5 {
+  padding-bottom: 20px;
+}
+body #s3 .second #d2 {
+  margin-right: 65%;
+}
+body #s3 .loc {
+  background-color: white;
+  height: 320px;
+}
+body #s3 .loc img {
+  padding: 5px;
+}
+body #s3 .loc h3 {
+  color: black;
+}
+body #s4 {
+  margin-bottom: 50px;
+}
+body #s4 h2 {
+  padding: 20px;
+}
+body #s4 .owl {
+  background-color: white;
+}
+body #s4 .owl p {
+  color: gray;
+}
+body #s5 {
+  background-color: rgb(173, 167, 167);
+  padding: 30px;
+}
+body #s5 h2 {
+  padding: 20px;
+}
+body #s5 .loca {
+  background-color: white;
+  height: 400px;
+}
+body footer {
+  background-color: rgb(70, 65, 65);
+  color: white;
+}
+body footer h4 {
+  padding: 20px;
+}
+body footer .local2 {
+  border-bottom: 1px solid white;
+}
+body footer .local2 .local {
+  border-right: 1px solid white;
+}
+body footer .local2 .local a {
+  text-decoration: none;
+  color: white;
+}
+body footer .ankar {
+  padding-bottom: 20px;
+}
+body footer .ankar a {
+  text-decoration: none;
+  color: white;
+  margin-right: 25px;
+}
+body footer div {
+  padding-bottom: 25px;
+}/*# sourceMappingURL=html.css.map */
